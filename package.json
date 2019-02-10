@@ -1,0 +1,15 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "A node api for todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sulabh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.5",
+    "nodemon": "^1.18.9"
+  }
+}
